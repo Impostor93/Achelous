@@ -1,0 +1,15 @@
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.RoutingEngine.Facilities.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.RoutingEngine.Facilities.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.RoutingEngine.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Castle.Core.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Castle.Windsor.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.Modeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.RoutingEngine.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Castle.Core.xml
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Castle.Windsor.xml
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.Modeling.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\obj\Debug\Achelous.RoutingEngine.Facilities.csprojResolveAssemblyReference.cache
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\obj\Debug\Achelous.RoutingEngine.Facilities.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\obj\Debug\Achelous.RoutingEngine.Facilities.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.Facilities.RaoutingConfiguration.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RoutingEngine.Facilities\bin\Debug\Achelous.Facilities.RaoutingConfiguration.pdb

@@ -1,0 +1,5 @@
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\bin\Debug\Achelous.DomainModeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\bin\Debug\Achelous.DomainModeling.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\obj\Debug\Achelous.DomainModeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\obj\Debug\Achelous.DomainModeling.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\obj\Debug\Achelous.DomainModeling.csprojResolveAssemblyReference.cache

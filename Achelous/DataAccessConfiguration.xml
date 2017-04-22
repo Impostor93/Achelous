@@ -1,0 +1,5 @@
+﻿<DataSourceConnections>
+  <ConnectionInfo id="SharePoint WS" server="http://wingtip:999" instance="DevTest" username="bulpros/p.georgiev" password="123456789" additionalConnectionOptions="" ></ConnectionInfo>
+  <ConnectionInfo id="DataBase petar" server="PETAR-PC\PETAR" instance="Chat-SignalR" username="" password="" additionalConnectionOptions="" ></ConnectionInfo>
+  <ConnectionInfo id="WebService Sample Resources" server="http://google.com" instance="DevTest" username="bulpros/p.georgiev" password="123456789" additionalConnectionOptions="" ></ConnectionInfo>
+</DataSourceConnections>

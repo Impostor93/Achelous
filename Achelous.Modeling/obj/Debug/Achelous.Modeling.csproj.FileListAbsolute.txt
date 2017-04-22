@@ -1,0 +1,5 @@
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\obj\Debug\Achelous.Modeling.csprojResolveAssemblyReference.cache
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\bin\Debug\Achelous.Modeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\bin\Debug\Achelous.Modeling.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\obj\Debug\Achelous.Modeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.Modeling\obj\Debug\Achelous.Modeling.pdb

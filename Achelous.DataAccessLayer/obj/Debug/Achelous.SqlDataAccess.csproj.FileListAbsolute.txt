@@ -1,0 +1,13 @@
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Achelous.SqlDataAccess.dll
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Achelous.SqlDataAccess.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Castle.Windsor.dll
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Castle.Core.dll
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Castle.Windsor.xml
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Castle.Core.xml
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\obj\Debug\Achelous.SqlDataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\obj\Debug\Achelous.SqlDataAccess.dll
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\obj\Debug\Achelous.SqlDataAccess.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Achelous.Facilities.DataAccess.dll
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Achelous.Facilities.DataAccess.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Achelous.DomainModeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.DataAccessLayer\bin\Debug\Achelous.DomainModeling.pdb

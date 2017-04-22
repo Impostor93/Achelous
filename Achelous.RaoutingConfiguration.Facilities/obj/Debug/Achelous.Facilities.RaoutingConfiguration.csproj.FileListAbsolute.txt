@@ -1,0 +1,11 @@
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\obj\Debug\Achelous.Facilities.RaoutingConfiguration.csprojResolveAssemblyReference.cache
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Achelous.Facilities.RaoutingConfiguration.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Achelous.Facilities.RaoutingConfiguration.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Castle.Core.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Castle.Windsor.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Castle.Core.xml
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Castle.Windsor.xml
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\obj\Debug\Achelous.Facilities.RaoutingConfiguration.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\obj\Debug\Achelous.Facilities.RaoutingConfiguration.pdb
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Achelous.DomainModeling.dll
+D:\Projects\.Net Projects\Achelous\Achelous.RaoutingConfiguration.Facilities\bin\Debug\Achelous.DomainModeling.pdb

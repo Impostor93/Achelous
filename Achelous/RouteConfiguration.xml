@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Routing>
+  <Resources>
+    <Resource id="Documents" type="Namespace.Documents"></Resource>
+    <Resource id="Tasks" type="Namespace.Tasks"></Resource>
+    <Resource id="tblChatUser" type="Namespace.Tasks"></Resource>
+  </Resources>
+
+  <Datesources>
+    <Datasource id="DataBase petar" type="Database">
+      <Rules>
+        <And>
+          <Rule id="ResourceSample" type="Resurce" value="tblChatUser"></Rule>
+        </And>
+      </Rules>
+    </Datasource>
+    <Datasource id="SharePoint WS" type="SharePoint">
+      <Rules>
+        <And>
+          <Rule id="RexExSample" type="RegEx" value=""></Rule>
+          <Rule id="ResourceSample" type="Resurce" value="Documents"></Rule>
+        </And>
+      </Rules>
+    </Datasource>
+    <Datasource id="Database sample" type="Database">
+      <Rules>
+        <Or>
+          <Rule id="RexExSample" type="RegEx" value="dsfsfsfsa"></Rule>
+          <Rule id="ResourceSample" type="Resurce" value="Documents"></Rule>
+        </Or>
+      </Rules>
+    </Datasource>
+    <Datasource id="WebService Sample Resources" type="Rest">
+        <Rules>
+          <And>
+            <!--<Rule id="RexExSample" type="RegEx" value=""></Rule>-->
+           </And>
+        </Rules>
+      </Datasource>
+  </Datesources>
+</Routing>
